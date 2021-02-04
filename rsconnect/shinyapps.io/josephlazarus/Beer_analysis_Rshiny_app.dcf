@@ -1,0 +1,13 @@
+name: Beer_analysis_Rshiny_app
+title: Beer_analysis_Rshiny_app
+username:
+account: josephlazarus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3584927
+bundleId: 4182367
+url: https://josephlazarus.shinyapps.io/Beer_analysis_Rshiny_app/
+when: 1612477641.35569
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: elements.html|generic.html|index.html|index.rmd|LICENSE.txt|README.md|README.txt|assets|images
